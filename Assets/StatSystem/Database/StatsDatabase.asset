@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: StatsDatabase
   m_EditorClassIdentifier: 
   stats: []
-  globalStats: []
+  globalStats:
+  - {fileID: 11400000, guid: 3040c817b0e9bf445b2d9001ac2e0b66, type: 2}

@@ -9,9 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 19a42a4035d01334cb2f60b7b43d7ec7, type: 3}
-  m_Name: Money
+  m_Script: {fileID: 11500000, guid: 9542eaedbd3f0ae44b96c551d2e6913c, type: 3}
+  m_Name: exit
   m_EditorClassIdentifier: 
-  _notCalculatedBaseValue: 0
-  _cap: 999999
-  _currentValueOnStart: 1
+  idNext: exit
+  exitNode: 1
+  speech: "\u041A\u043E\u043D\u0435\u0446"
+  variants: []
+  variantsIds: []
+  variantConditions: []
